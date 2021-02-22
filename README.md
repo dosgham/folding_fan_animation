@@ -1,2 +1,3 @@
 # folding_fan_animation
-![image](https://user-images.githubusercontent.com/78833161/108612548-cc603a80-73b7-11eb-867f-a39bb5d7ab48.png)
+![image](https://user-images.githubusercontent.com/78833161/108644869-c5502f80-747e-11eb-9f26-54ac010f620a.png)
+
